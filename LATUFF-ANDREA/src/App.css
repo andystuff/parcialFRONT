@@ -1,0 +1,49 @@
+body{
+  background-color: #888;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flexbox;
+
+}
+
+.formulario-padre{
+  text-align: center;
+  background-color: gainsboro;
+  border-radius: 0.5rem;
+  padding: 0.7rem;
+
+}
+h3{
+  color: #7e9680;
+  font-weight: 800;
+}
+h4{
+  text-align: center;
+  color: #7e9680;
+}
+.listado-hijo{
+  list-style: none;
+  
+ 
+}
+p{
+  text-align: left;
+  padding: 0.2rem;
+  
+}
+.botoncito{
+  background-color: #7e9680;
+  
+}
+
+li{
+  background-color: #cc9596;
+  border-radius: 0.6rem;
+}
